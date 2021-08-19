@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MoaES
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Spark!
-- 💞️ I’m looking to collaborate on analytics and data science projects. 
+- 👀 I’m interested in data science
+- 💞️ I’m looking to collaborate on data projects. 
 - 📫 You can reach me by sending an email to my gmail, moa.stenudd
 
 <!---

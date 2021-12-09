@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MoaES
 - 👀 I’m interested in data science
-- 💞️ I’m looking to collaborate on data projects. 
 - 📫 You can reach me by sending an email to my gmail, moa.stenudd
 
 <!---
